@@ -8,7 +8,7 @@ source env/Scripts/activate
 pip install -r requirements.txt
 ```
 
-# Run
+# RUN
 
 ```
 python app.py
